@@ -1,4 +1,4 @@
-# 👋 Halo, Saya [bara saputra]!
+# 👋 Halo, Saya Bara Saputra!
 Saya adalah siswa SMK Syafa’atul Ummah jurusan **Rekayasa Perangkat Lunak (RPL)**.  
 Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
 
@@ -12,6 +12,6 @@ Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
 Menjadi developer yang bermanfaat dan berkontribusi untuk masyarakat melalui teknologi.
 
 ## 🌐 Hubungi Saya
-- 📧 Email: [tugasuntuk780@gmail.com]
-- 🚀 Media Sosial: instagram : [stron9gentlem4n]
+- 📧 Email: tugasuntuk780@gmail.com
+- 🚀 Media Sosial: instagram : stron9gentlem4n
 - 💻 GitHub: [https://github.com/usernamekamu](https://github.com/barasaputra)
